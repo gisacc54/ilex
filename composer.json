@@ -1,0 +1,13 @@
+{
+    "name": "ilex/ilex",
+    "description": "ilex",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gisacc54",
+            "email": "giftisacc54@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
