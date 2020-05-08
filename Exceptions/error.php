@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.6">
-    <title>Offcanvas template · Bootstrap</title>
+    <title>ilex Framework | ERROR </title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/offcanvas/">
 
@@ -39,7 +39,7 @@
   <body class="bg-light">
 
 
-  
+
 
 <main role="main" class="container">
   <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-ilex rounded shadow-sm">
