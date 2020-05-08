@@ -1,12 +1,14 @@
 <?php
 use Config\Routes\Route;
-
+/*
+|--------------------------------------------------------------------------
+| Web Routes                   @ created by Gift Isacc
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application.
+|
+|
+|
+*/
 
 Route::get('/', 'HomeController@index');
-
-// route('/',function (){
-//   return "ilex Framework";
-// });
-// route('about',function (){
-//   return "All about ilex Framework";
-// });
