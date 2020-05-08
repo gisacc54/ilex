@@ -39,20 +39,7 @@
   <body class="bg-light">
 
 
-  <nav class="navbar navbar-expand-lg fixed-top border-bottom shadow-sm">
-    <a class="nav-link active ilex-link" href="#">ilex Framework</a>
-    <a class="nav-link ilex-link" href="#">
-      Friends
-      <span class="badge badge-pill bg-light align-text-bottom">27</span>
-    </a>
-    <a class="nav-link ilex-link" href="#">Explore</a>
-    <a class="nav-link ilex-link" href="#">Suggestions</a>
-    <a class="nav-link ilex-link" href="#">Link</a>
-    <a class="nav-link ilex-link" href="#">Link</a>
-    <a class="nav-link ilex-link" href="#">Link</a>
-    <a class="nav-link ilex-link" href="#">Link</a>
-    <a class="nav-link ilex-link" href="#">Link</a>
-  </nav>
+  
 
 <main role="main" class="container">
   <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-ilex rounded shadow-sm">

@@ -13,7 +13,7 @@ class Controller {
       $message ="File resource/views/$view.php is not Found. Pleas create view file in 'resource/views/' directory ";
 
       // include "Exceptions/error.php";
-      include "storage/tamplete.php";
+      include "Exceptions/error.php";
       return;
     }
 
