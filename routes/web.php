@@ -1,11 +1,9 @@
 <?php
 use Config\Routes\Route;
 
-Route::get('/', function()
-{
-  return "ilex Framework";
-});
-Route::get('/home', 'HomeController@index');
+
+Route::get('/', 'HomeController@index');
+
 // route('/',function (){
 //   return "ilex Framework";
 // });
