@@ -1,5 +1,5 @@
 <?php
-
-require_once 'route/web.php';
+require_once 'vendor/autoload.php';
+require_once 'routes/web.php';
 $action = $_SERVER['REQUEST_URI'];
-  dispatch($action);
+Config\Routes\Route::dispatch($action);
