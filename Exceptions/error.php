@@ -36,12 +36,12 @@
     <!-- Custom styles for this template -->
     <link href="resource/css/offcanvas.css" rel="stylesheet">
   </head>
-  <body class="bg-light">
+  <body class="" style="babackground-color: #162447;">
 
 
 
 
-<main role="main" class="container">
+<main role="main" class="container" style="babackground-color: #162447;">
   <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-ilex rounded shadow-sm">
     <img class="mr-3" src="resource/images/ilex.svg" alt="" width="60" height="60">
     <div class="lh-100">
