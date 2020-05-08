@@ -60,7 +60,7 @@ class Route{
     }
     else {
       $error = "ERROR:: Undifine route";
-      $message ="Notice: Undefined offset: 878 in /opt/lampp/htdocs/class/php/project/ilex/config/routes/Route.php";
+      $message ="Notice: Undefined offset: $action in /opt/lampp/htdocs/class/php/project/ilex/config/routes/Route.php";
       include "Exceptions/error.php";
     }
 
