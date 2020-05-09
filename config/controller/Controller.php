@@ -1,7 +1,10 @@
 <?php
 namespace Config\Controller;
 /*
-$this->more(['users'=>$users])->view('welcome'); view with parameters in controller files
+|--------------------------------------------------------------------------
+| Route                   @ created by Gift Isacc
+|--------------------------------------------------------------------------
+|
 */
 class Controller {
   public $variable;
@@ -11,7 +14,7 @@ class Controller {
       return;
       if(!$this->is_array($data))
         return;
-    
+
 
       include "resource/views/$view.php";
       return;
@@ -55,13 +58,6 @@ class Controller {
   {
     include "Exceptions/error.php";
     return;
-  }
-
-  public function more($valiables)
-  {
-    $obj=$this;
-    $obj->variable=$valiables;
-    return $obj;
   }
 
 }
