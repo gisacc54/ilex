@@ -60,11 +60,4 @@ class Controller {
     return;
   }
 
-  public function more($valiables)
-  {
-    $obj=$this;
-    $obj->variable=$valiables;
-    return $obj;
-  }
-
 }
